@@ -1,2 +1,2 @@
 St="ON"
-Print("Server : ",St)
+print("Server : ",St)
